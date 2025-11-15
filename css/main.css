@@ -111,13 +111,14 @@ body {
 
 .cafe-top__list__item:nth-child(1) button {
     padding: 22px 78px 24px 78px;
-    background: #2e8d52;
+    background: #237043; /* To‘qroq yashil */
     text-decoration: none;
     border-radius: 50px;
     color: #ffffff;
     font-size: 22px;
     font-weight: 500;
 }
+
 
 .cafe-top__list__item:nth-child(2) a {
     padding: 22px 78px 24px 78px;
@@ -130,7 +131,7 @@ body {
 }
 
 .cafe-top__list__item:nth-child(1) button:hover {
-    background-color: #2f8d54;
+    background-color: #358455;
     transition: 0.2s ease;
 }
 

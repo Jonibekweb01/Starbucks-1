@@ -114,7 +114,7 @@ body {
     background: #2e8d52;
     text-decoration: none;
     border-radius: 50px;
-    color: #1a1a1a;
+    color: #d8d6d6;
     font-size: 22px;
     font-weight: 500;
 }
@@ -129,7 +129,7 @@ body {
     border: 2px solid rgb(76, 76, 76);
 }
 
-.cafe-top__list__item:nth-child(1) a:hover {
+.cafe-top__list__item:nth-child(1) button:hover {
     background-color: #2f8d54;
     transition: 0.2s ease;
 }

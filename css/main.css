@@ -114,8 +114,7 @@ body {
     background: #2e8d52;
     text-decoration: none;
     border-radius: 50px;
-    color: #000000;
-    /* Oq o‘rniga qora — yuqori kontrast */
+    color: #000000; /* Oq o‘rniga qora — yuqori kontrast */
     font-size: 22px;
     font-weight: 500;
 }

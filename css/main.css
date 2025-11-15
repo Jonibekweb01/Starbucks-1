@@ -111,13 +111,15 @@ body {
 
 .cafe-top__list__item:nth-child(1) button {
     padding: 22px 78px 24px 78px;
-    background: #237043; /* To‘qroq yashil */
+    background: #2e8d52;
     text-decoration: none;
     border-radius: 50px;
-    color: #ffffff;
+    color: #000000;
+    /* Oq o‘rniga qora — yuqori kontrast */
     font-size: 22px;
     font-weight: 500;
 }
+
 
 
 .cafe-top__list__item:nth-child(2) a {
